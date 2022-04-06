@@ -1,8 +1,8 @@
 <div align="center">
   <h3>💁🏻‍♂️PROFILE</h3>
 <p>
-<h4>Hello! I am currently specializing in Computer Science and enhancing skills for Java Web Programming and Big Data Analysis by Python.</h4>
-<h4>Belows are my personal information and projects! Any queries, please do not hesitate to contact me through Contacts!</h4>
+<h4>Hello! I am currently specializing in Computer Science and enhancing my skills in Java Web Programming and Big Data Analysis by Python.</h4>
+<h4>Below are my personal information and projects! Any queries, please do not hesitate to contact me through Contacts!</h4>
 </p>
 
 <br>
