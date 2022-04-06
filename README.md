@@ -48,6 +48,7 @@ Java Web Programming & Hadoop BigData Anaylsis by Python
 </p>
 
 <br>
+<br>
 
 [![Timmer27](https://github-readme-stats.vercel.app/api?username=Timmer27&show_icons=true&theme=vue)](https://github.com/Timmer27)[![Timmer27](https://github-readme-stats.vercel.app/api/top-langs/?username=Timmer27&show_icons=true&title_color=42b883&layout=compact)](https://github.com/Timmer27)
 
