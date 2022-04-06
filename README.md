@@ -1,44 +1,56 @@
-
-### PROFILE
+<h3 align="center">PROFILE</h3>
+<br>
+<p align="center">
 Hello! I am currently specializing in Computer Science and enhancing skills for Java Web Programming and Big Data Analysis by Python.
-
+<br>
+  <br>
 Belows are my personal information and projects! Any queries, please do not hesitate to contact me through Contacts!
+</p>
 
-### COMPUTER LANGUAGE 👨🏽‍💻
+#
+<h3 align="center" size="20px">👨🏽‍💻TECHS</h3>
+<br>
+<p align="center">
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>&nbsp 
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>&nbsp
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>&nbsp
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/>&nbsp
+<img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/>
+</p>
 
-### EXPERIENCE 🏢
+#
+<!-- ### 🏢EXPERIENCE 
+
 Tjeoun IT Academy
 Java Web Programming & Hadoop BigData Anaylsis by Python
-2022-01-24 ~ 2022-07-27
+2022-01-24 ~ 2022-07-27 -->
+<h3 align="center">🌟CONTACTS </h3>
+<br>
+<p align="center">
+<a href="https://open.kakao.com/o/sk0R4K9d/"><img src="https://img.shields.io/badge/KakaoTalk-F7DF1E?style=flat-square&logo=KakaoTalk&logoColor=white&link="https://open.kakao.com/o/sk0R4K9d/"></a>
+<a href="https://www.instagram.com/tim_jongho/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link="https://www.instagram.com/tim_jongho/"></a>
+<a href="https://timmer.tistory.com/"><img src="https://img.shields.io/badge/TSTORY-gray?style=flat-square&logo=TSTORY&logoColor=white&link="https://timmer.tistory.com/"></a>
+<a href="mailto:whdghtpgml@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link="mailto:whdghtpgml@gmail.com"></a>
+<a href="https://www.linkedin.com/in/jongho-tim-lee-118693108/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link="https://www.linkedin.com/in/jongho-tim-lee-118693108/"></a>
+<a href="https://api.whatsapp.com/send?phone=821092965670&text=Hello!%20This%20is%20Tim%20(%EC%9D%B4%EC%A2%85%ED%98%B8)"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=WhatsApp&logoColor=white&link="https://api.whatsapp.com/send?phone=821092965670&text=Hello!%20This%20is%20Tim%20(%EC%9D%B4%EC%A2%85%ED%98%B8)"></a>
+</p>
 
-### CONTACTS 🌟
-tstory, kakao, Instagram, whatsApp, Wechat
-[![Insta Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/tim_jongho/)](https://www.instagram.com/tim_jongho/)
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jongho-tim-lee-118693108/)](https://www.linkedin.com/in/jongho-tim-lee-118693108/)
-[![KaKao Badge](https://img.shields.io/badge/KakaoTalk-#FFCD00?style=flat-square&logo=KakaoTalk&logoColor=white&link=https://open.kakao.com/o/sk0R4K9d)](https://open.kakao.com/o/sk0R4K9d)
-[![WhatsApp Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=hhttps://api.whatsapp.com/send?phone=821092965670&text=Hello!%20This%20is%20Tim%20(%EC%9D%B4%EC%A2%85%ED%98%B8)&target="_blank")](https://www.facebook.com/zzsza)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:whdghtpgml@gmail.com)](mailto:whdghtpgml@gmail.com)
+#
+[![Timmer27](https://github-readme-stats.vercel.app/api?username=Timmer27&show_icons=true&theme=vue)](https://github.com/Timmer27)
+[![Timmer27](https://github-readme-stats.vercel.app/api/top-langs/?username=Timmer27&show_icons=true&hide_border=true&title_color=42b883&layout=compact)](https://github.com/Timmer27)
 
-### EDUCATION 🎓
+
+<!-- ### 🎓EDUCATION 
 Bachelor of Arts in Hospitality Management
 Washington State University, Washington
 
 Bachelor of Arts in Hospitality Management
-César Ritz Colleges Switzerland
+César Ritz Colleges Switzerland -->
 
-  
-### LANGUAGE 🔡
-Korean : Native
-English : Proficiency
-
-[![Timmer27](https://github-readme-stats.vercel.app/api?username=Timmer27&show_icons=true&theme=vue)](https://github.com/Timmer27)
-[![Timmer27](https://github-readme-stats.vercel.app/api/top-langs/?username=Timmer27&show_icons=true&hide_border=true&title_color=42b883&layout=compact)](https://github.com/Timmer27)
-
-[![Tstory Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jongho-tim-lee-118693108/)](https://www.linkedin.com/in/jongho-tim-lee-118693108/)
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
 
 
