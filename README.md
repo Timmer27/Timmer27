@@ -29,7 +29,7 @@ English : Proficiency
 [![Timmer27](https://github-readme-stats.vercel.app/api?username=Timmer27&show_icons=true&theme=vue)](https://github.com/Timmer27)
 [![Timmer27](https://github-readme-stats.vercel.app/api/top-langs/?username=Timmer27&show_icons=true&hide_border=true&title_color=42b883&layout=compact)](https://github.com/Timmer27)
 
-[![Instagram Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://zzsza.github.io/)
+<a href="https://www.instagram.com/tim_jongho/“><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/tim_jongho/"/></a>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)](https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)
 
