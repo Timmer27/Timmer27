@@ -27,7 +27,7 @@ English : Proficiency
 
 ![Timmer27](https://github-readme-stats.vercel.app/api?username=Timmer27&show_icons=true)
 [![Timmer27](https://github-readme-stats.vercel.app/api/top-langs/?username=Timmer27&show_icons=true&theme=vue&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/Timmer27)
-![Timmer27](https://github-readme-stats.vercel.app/api?username=6810779s&show_icons=true&theme=vue)(https://github.com/Timmer27)
+[![Timmer27](https://github-readme-stats.vercel.app/api?username=Timmer27&show_icons=true&theme=vue)](https://github.com/Timmer27)
 
 
 <h3 align="left">Languages and Tools:</h3>
