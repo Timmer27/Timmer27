@@ -14,13 +14,9 @@ Java Web Programming & Hadoop BigData Anaylsis by Python
 ### CONTACTS 🌟
 tstory, kakao, Instagram, whatsApp, Wechat
 [![Insta Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/tim_jongho/)](https://www.instagram.com/tim_jongho/)
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jongho-tim-lee-118693108/)](https://www.linkedin.com/in/jongho-tim-lee-118693108/)
-
-[![KaKao Badge](https://img.shields.io/badge/KakaoTalk-white?style=flat-square&logo=KakaoTalk&logoColor=white&link=https://open.kakao.com/o/sk0R4K9d)](https://open.kakao.com/o/sk0R4K9d)
-
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jongho-tim-lee-118693108/)](https://www.linkedin.com/in/jongho-tim-lee-118693108/)
+[![KaKao Badge](https://img.shields.io/badge/KakaoTalk-#FFCD00?style=flat-square&logo=KakaoTalk&logoColor=white&link=https://open.kakao.com/o/sk0R4K9d)](https://open.kakao.com/o/sk0R4K9d)
 [![WhatsApp Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=hhttps://api.whatsapp.com/send?phone=821092965670&text=Hello!%20This%20is%20Tim%20(%EC%9D%B4%EC%A2%85%ED%98%B8)&target="_blank")](https://www.facebook.com/zzsza)
-
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:whdghtpgml@gmail.com)](mailto:whdghtpgml@gmail.com)
 
 ### EDUCATION 🎓
