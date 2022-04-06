@@ -21,15 +21,14 @@ Washington State University, Washington
 Bachelor of Arts in Hospitality Management
 César Ritz Colleges Switzerland
 
-<div align="center">
   
 ### LANGUAGE 🔡
 Korean : Native
 English : Proficiency
-</div>
-<!-- git stats 아이콘 -->
+
+
 [![Timmer27](https://github-readme-stats.vercel.app/api?username=Timmer27&show_icons=true&theme=vue)](https://github.com/Timmer27)
-<!-- most used language -->
+
 ![Timmer27](https://github-readme-stats.vercel.app/api?username=Timmer27&show_icons=true)
 
 
