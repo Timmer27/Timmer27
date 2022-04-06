@@ -17,7 +17,7 @@ tstory, kakao, Instagram, whatsApp, Wechat
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jongho-tim-lee-118693108/)](https://www.linkedin.com/in/jongho-tim-lee-118693108/)
 
-[![KaKao Badge](https://img.shields.io/badge/KakaoTalk-FFCD00?style=flat-square&logo=KakaoTalk&link=https://open.kakao.com/o/sk0R4K9d)](https://open.kakao.com/o/sk0R4K9d)
+[![KaKao Badge](https://img.shields.io/badge/KakaoTalk-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=white&link=https://open.kakao.com/o/sk0R4K9d)](https://open.kakao.com/o/sk0R4K9d)
 
 [![WhatsApp Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=hhttps://api.whatsapp.com/send?phone=821092965670&text=Hello!%20This%20is%20Tim%20(%EC%9D%B4%EC%A2%85%ED%98%B8)&target="_blank")](https://www.facebook.com/zzsza)
 
